@@ -10,7 +10,7 @@
 
     <properties>
         <spring.version>5.2.4.RELEASE</spring.version>
-        <spring.security.version>4.1.4.RELEASE</spring.security.version>
+        <spring.security.version>5.3.3.RELEASE</spring.security.version>
         <jackson.core>2.10.2</jackson.core>
         <jackson.databind>2.10.2</jackson.databind>
         <jackson.jsr>2.10.2</jackson.jsr>

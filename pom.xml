@@ -16,7 +16,7 @@
         <jackson.jsr>2.10.2</jackson.jsr>
         <jackson.parameter.name>2.10.2</jackson.parameter.name>
         <jackson.annotations>2.10.2</jackson.annotations>
-        <hibernate.validator>6.1.2.Final</hibernate.validator>
+        <hibernate.validator>6.1.5.Final</hibernate.validator>
         <javax.el>3.0.0</javax.el>
         <org.glasfish>3.0.0</org.glasfish>
     </properties>

@@ -12,7 +12,7 @@
         <spring.version>5.2.4.RELEASE</spring.version>
         <spring.security.version>4.1.4.RELEASE</spring.security.version>
         <jackson.core>2.10.2</jackson.core>
-        <jackson.databind>2.10.2</jackson.databind>
+        <jackson.databind>2.13.4.1</jackson.databind>
         <jackson.jsr>2.10.2</jackson.jsr>
         <jackson.parameter.name>2.10.2</jackson.parameter.name>
         <jackson.annotations>2.10.2</jackson.annotations>

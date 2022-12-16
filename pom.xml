@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <spring.version>5.2.4.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <spring.security.version>4.1.4.RELEASE</spring.security.version>
         <jackson.core>2.10.2</jackson.core>
         <jackson.databind>2.10.2</jackson.databind>
